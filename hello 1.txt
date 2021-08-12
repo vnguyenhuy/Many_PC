@@ -1,1 +1,3 @@
 hello Thanh Tam!!!!
+
+fixed by Beta branch
